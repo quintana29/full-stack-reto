@@ -6,6 +6,8 @@ public class CartaMaestraId extends Identity {
     public CartaMaestraId(){
 
     }
+
+
     private CartaMaestraId(String id) {
         super(id);
     }
